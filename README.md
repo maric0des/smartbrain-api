@@ -9,7 +9,7 @@ Language: JavaScript (React, Node)
 Cloud Platform : Heroku  
 Database: PostgreSQL
 
-[Link to the frontend repo >>](https://github.com/maric0des/smartbrain-api)
+[Link to the frontend repo >>](https://github.com/maric0des/smartbrain)
 
 ## Test
 
